@@ -91,6 +91,7 @@ ul > li {
 .wrapper {
   max-width: 1240px;
   margin: 0 auto;
+  overflow-x: hidden;
 }
 .about__text {
   display: flex;
