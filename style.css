@@ -684,24 +684,3 @@ footer {
       }
 }
 
-@media (min-width: 1500px) and (max-width: 1920px) {
-    .home__grid-images {
-        flex-direction: row;
-        margin-top: -190px;
-      }
-      .home__grid-images > img:nth-child(1) {
-        margin-top: 0;
-      }
-      .home__grid-images > img:nth-child(2) {
-        margin-left: 0;
-        margin-top: 250px;
-      }
-      .home__grid-images > img:nth-child(3) {
-        margin-top: 0;
-        margin-left: 0;
-      }
-    
-      .home__grid-images > img {
-        width: 500px;
-      }
-}
